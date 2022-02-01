@@ -1,0 +1,63 @@
+.header{
+    width: 320px;
+    height: 295px;
+    background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
+}
+
+.header .header-logo{
+    text-align: center;
+    padding: 39px 0 33px 0;
+}
+
+.header .header-title{
+    text-align: center;
+    width: 288px;
+    height: 78px;
+    margin: 0 16px 24px;
+}
+
+.header .header-title .pricipal-header-title{
+    color: var(--just-white);
+    font-family: var(--font-sans);
+    font-weight: var(--weight-700);
+    font-size: var(--size-24);
+    line-height: 26px;
+}
+
+.header .header-text{
+    text-align: center;
+    width: 288px;
+    height: 36px;
+    margin: 0 16px 32px;
+}
+
+.header .header-text .principal-header-text{
+    color: var(--just-white);
+    font-family: var(--font-sans);
+    font-weight: var(--weight-500);
+    font-size: var(--size-14);
+    line-height: 18px;
+}
+
+.header .header-button{
+    display: flex;
+    justify-content: center;    
+}
+
+.header .header-button .principal-header-button{
+    padding: 12px 16 12px 16px;
+    width: 229px;
+    height: 48px;
+    font-family: var(--font-sans);
+    font-weight: var(--weight-700);
+    font-size: var(--size-14);
+    line-height: 18.23px;
+    border-radius: 4px;
+    background: var(--off-white);
+    box-shadow: 0px 4px 8px rgba(89, 73, 30, 0.16);
+    border: none;
+}
+
+.header .header-button .principal-header-button .fa-angle-down{
+    margin-left: 14px;
+}
