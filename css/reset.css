@@ -14,7 +14,7 @@
 	--size-24:24px;
 	--size-14:14px;
 	--background:#E5E5E5;
-	--bitcoin-orage:#F7931A;
+	--bitcoin-orange:#F7931A;
 	--soft-orange:#FFE9D5;
 	--secondary-blue:#FFE9D5; 
 	--soft-blue:#E7F5FF;
@@ -23,6 +23,7 @@
 	--gray:#BABABA;
 	--off-white:#FAF8F7;
 	--just-white:#FFFFFF;
+	--width-page:320px;
 }
 
 html, body, div, span, applet, object, iframe,

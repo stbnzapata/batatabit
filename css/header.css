@@ -1,5 +1,5 @@
 .header{
-    width: 320px;
+    min-width: 320px;
     height: 295px;
     background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
 }
@@ -11,7 +11,7 @@
 
 .header .header-title{
     text-align: center;
-    width: 288px;
+    min-width: 288px;
     height: 78px;
     margin: 0 16px 24px;
 }
@@ -26,7 +26,7 @@
 
 .header .header-text{
     text-align: center;
-    width: 288px;
+    min-width: 288px;
     height: 36px;
     margin: 0 16px 32px;
 }
@@ -46,7 +46,7 @@
 
 .header .header-button .principal-header-button{
     padding: 12px 16 12px 16px;
-    width: 229px;
+    min-width: 229px;
     height: 48px;
     font-family: var(--font-sans);
     font-weight: var(--weight-700);
