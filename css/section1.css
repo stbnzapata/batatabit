@@ -1,6 +1,6 @@
 .section1{
     min-width: var(--width-page);
-    height: 778px;
+    height: 800px;
 }
 
 .section1 .container-section1-img{
@@ -105,4 +105,10 @@
     /* font-size: 12px; */
     font-weight: 400;
     line-height: 14.52px;
+}
+
+.section1 .container-icon-batata{
+    display: grid;
+    place-content: center;
+    width: 100%;
 }
