@@ -24,3 +24,9 @@
     line-height: 26px;
     margin-top: 64px;
 }
+
+@media (min-width: 321px) {
+    .section3 .container-img{
+        margin-top: 64px;
+    }
+}
